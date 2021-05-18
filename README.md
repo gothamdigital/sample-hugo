@@ -1,5 +1,5 @@
 # Getting Started
-
+Test
 These steps will get this sample Hugo application running for you using DigitalOcean App Platform.
 
 **Note: Following these steps may result in charges for the use of DigitalOcean services**
